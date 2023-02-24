@@ -35,6 +35,7 @@ You can learn more about web development by visiting [AWS Amplify](https://aws.a
 | [Build a Product Marketplace iOS app Using AWS Amplify and Swift](https://amplify.aws/learn/courses/Swift-Course-70a6d)                                          | This course will show you how to make an iOS app from end to end using AWS Amplify to authenticate users, save data in a database, and store images.                           | Videos, Workshop |
 | [Build a Membership Website with Amplify, Stripe, and Next.js](https://amplify.aws/learn/courses/Build-a-Membership-Website-c61a0)                           | Learn how to build a membership website that allows you to collect payments from your members using Stripe.                                                                    | Videos, Workshop |
 | [Full Stack for Front-End Developers: Build a full stack app using Amplify and React App](https://amplify.aws/learn/courses/Fullstack-for-Frontend-Developers-e7319) | In this course, you'll learn how to build a fullstack application with AWS Amplify Studio. We'll build a notes application which has authentication, authorization, and data.  | Videos, Workshop |
+| [Build a 'Mythical Misfits' project using Code Catalyst](https://docs.aws.amazon.com/codecatalyst/latest/userguide/getting-started-template-project.html) |In this tutorial, you'll use a modern three-tier web application blueprint to create a project in CodeCatalyst. | Tutorial |
 
 ---
 
