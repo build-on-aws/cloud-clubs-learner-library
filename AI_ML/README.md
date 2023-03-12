@@ -50,3 +50,5 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 <sup>[1]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
 
 ---
+
+See also - [Data Science and Data Analytics](../DataScience_DataAnalytics)
