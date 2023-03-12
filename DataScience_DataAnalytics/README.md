@@ -24,6 +24,7 @@ You can learn more about Data Science and Data Analytics services by visiting - 
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)           | This course is a Data Science   specialization and can be audited for free.                                                                                 | Course, Labs |
 | [Data Solutions for Education \| Student Profile Guided Lab](https://data-for-edu-student-profile.workshop.aws)                     | Deep dive into building a Student information system and a learning   management system in this workshop.                                                   | Workshop     |
+| [Cloud Quest: Machine Learning](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner) | Learn more about Data Analytics by going through this game based   experience. Once you start the game, go to the roles option and select Data   Analytics. | Game, Labs   |
 
 ---
 
@@ -44,3 +45,7 @@ You can learn more about Data Science and Data Analytics services by visiting - 
 | [Anomaly Detection on AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/4866/anomaly-detection-on-aws) | Explore practical aspects of building   anomaly detection applications on AWS, using Amazon Kinesis Data Analytics   and Amazon SageMaker.                                                        | Video, Labs |
 | [Analyze toll data using serverless analytics on AWS](https://analyze-toll-data-using-serverless-aws.workshop.aws/en/)          | The purpose of this workshop is to build an end-to-end serverless ETL pipeline leveraging Amazon S3 Data Lake, AWS Lake Formation, AWS Glue, Amazon Kinesis, Amazon Athena, and Amazon QuickSight | Workshop    |
 | [Web Analytics with Amplify](https://amplify-analytics.workshop.aws/)                                                           | Learn how to create custom analytics pipeline to collect events and create custom dashboards to analyze these events with Amazon Kinesis and Amazon QuickSight and much more                      | Workshop    |
+
+---
+
+See also - [Artificial Intelligence and Machine Learning](../AI_ML)
