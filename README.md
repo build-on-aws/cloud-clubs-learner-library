@@ -3,7 +3,7 @@
 
 ### This library includes a set of folders where you can discover free, ungated content on AWS properties to further your learning journey. Choose a topic that interests you and visit its homepage in its labelled folder or use the table of contents below. 
 
-[![Learner Library overview ](/images/watch.gif)](https://youtu.be/tbd "Learner Library Overview - Click to Watch!")
+[![Learner Library overview ](watch.gif)](https://youtu.be/tbd "Learner Library Overview - Click to Watch!")
 > 🎥 Click the image above to learn how to use the Learner Library
 
 Primary among the sites listed in this repo are [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/). Use these platforms to learn more about AWS technologies in a level-appropriate format.
