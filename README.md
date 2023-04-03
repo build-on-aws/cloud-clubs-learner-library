@@ -1,7 +1,9 @@
-![banner](https://user-images.githubusercontent.com/1450004/225074692-c1f96a3a-3258-4983-b7a6-555d2e1a8e3e.png)
 ## Welcome to the AWS Cloud Club Learner Library
 
 ### This library includes a set of folders where you can discover free, ungated content on AWS properties to further your learning journey. Choose a topic that interests you and visit its homepage in its labelled folder or use the table of contents below. 
+
+[![Learner Library overview ](watch.gif)](https://youtu.be/tbd "Learner Library Overview - Click to Watch!")
+> 🎥 Click the image above to learn how to use the Learner Library
 
 Primary among the sites listed in this repo are [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/). Use these platforms to learn more about AWS technologies in a level-appropriate format.
 
