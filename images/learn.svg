@@ -1579,8 +1579,7 @@
       <g id="g1854"></g>
     </g>
   </g>
-  <a xlink:href="https://buildon.aws">
-    <g id="buildon-aws">
+    <g xlink:href="https://buildon.aws" id="buildon-aws">
       <g fill="#004e35" fill-opacity="1" id="g1820">
         <g transform="translate(322.725953, 44.664953)" id="g1818">
           <g id="g1816">
@@ -1694,7 +1693,6 @@
         </g>
       </g>
     </g>
-  </a>
   <g fill="#004e35" fill-opacity="1" id="g1992">
     <g transform="translate(501.432768, 104.547056)" id="g1990">
       <g id="g1988"></g>
