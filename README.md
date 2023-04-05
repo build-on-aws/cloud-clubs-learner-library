@@ -24,6 +24,14 @@ Primary among the sites listed in this repo are [AWS Educate](https://www.awsedu
 | [Serverless](/Serverless)                                     | Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers.                                                                                                                                                                                    |
 | [Web and Mobile Development](/Web_Mobile_Development)            | Web development refers to the ability to build beautiful, accessible, fast, and secure websites that work cross-browser for all users.                                                                                                                                                                     |
 
+---
+
+## What Learning Platform Works Best for Me?
+
+### Like all questions in tech, "it depends!" In particular, it depends on how you like to learn. To help you choose the right platform for your learning style, we've created a clickable decision tree. Click a node to visit a platform.
+
+![Decision tree](./images/learn.svg)
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
