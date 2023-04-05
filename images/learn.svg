@@ -1579,7 +1579,7 @@
       <g id="g1854"></g>
     </g>
   </g>
-    <g xlink:href="https://buildon.aws" id="buildon-aws">
+    <g href="https://buildon.aws" id="buildon-aws">
       <g fill="#004e35" fill-opacity="1" id="g1820">
         <g transform="translate(322.725953, 44.664953)" id="g1818">
           <g id="g1816">
@@ -1708,7 +1708,7 @@
       <g id="g2048"></g>
     </g>
   </g>
-  <g id="dev-to">
+  <g href="https://dev.to/aws" id="dev-to">
     <g fill="#004e35" fill-opacity="1" id="g1954">
       <g transform="translate(465.810676, 104.547056)" id="g1952">
         <g id="g1950">
@@ -1900,7 +1900,7 @@
       <g id="g2242"></g>
     </g>
   </g>
-  <g id="buildon-twitch">
+  <g href="https://www.twitch.tv/aws" id="buildon-twitch">
     <g fill="#004e35" fill-opacity="1" id="g2178">
       <g transform="translate(611.855591, 188.734011)" id="g2176">
         <g id="g2174">
@@ -2054,7 +2054,7 @@
       <g id="g2376"></g>
     </g>
   </g>
-  <g id="g4992">
+  <g href="https://workshops.aws/" id="workshops-aws">
     <g fill="#004e35" fill-opacity="1" id="g2358">
       <g transform="translate(453.174389, 523.849342)" id="g2356">
         <g id="g2354">
@@ -2200,7 +2200,7 @@
       <g id="g2750"></g>
     </g>
   </g>
-  <g id="cloud-quest">
+  <g href="https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner" id="cloud-quest">
     <g fill="#004e35" fill-opacity="1" id="g2686">
       <g transform="translate(41.14843, 232.991144)" id="g2684">
         <g id="g2682">
@@ -2308,7 +2308,7 @@
       <g id="g2952"></g>
     </g>
   </g>
-  <g id="skill-builder">
+  <g href="https://explore.skillbuilder.aws/" id="skill-builder">
     <path stroke-linecap="round" transform="matrix(0.513329, 0.543238, -0.545124, 0.515111, 614.539486, 266.903154)" fill="none" stroke-linejoin="round" d="M -2.498646 -1.4994 L -0.500203 0.00269292 L -2.502182 1.499739 " stroke="#004e35" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4" id="path1812"></path>
     <g fill="#004e35" fill-opacity="1" id="g2802">
       <g transform="translate(614.637574, 264.002001)" id="g2800">
@@ -2496,7 +2496,7 @@
       <g id="g3100"></g>
     </g>
   </g>
-  <g id="aws-blog">
+  <g href="https://aws.amazon.com/blogs/" id="aws-blog">
     <g fill="#004e35" fill-opacity="1" id="g3020">
       <g transform="translate(225.191884, 112.408141)" id="g3018">
         <g id="g3016">
@@ -2599,7 +2599,7 @@
   <path stroke-linecap="butt" transform="matrix(0.385693, -0.643227, 0.643227, 0.385693, 495.711603, 432.79601)" fill="none" stroke-linejoin="miter" d="M 0.00198771 0.501823 L 105.512927 0.502549 " stroke="#004e35" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4" id="path3138"></path>
   <path stroke-linecap="round" transform="matrix(0.385693, -0.643227, 0.643227, 0.385693, 536.92169, 364.798423)" fill="none" stroke-linejoin="round" d="M -2.500494 -1.500371 L -0.500094 0.00258386 L -2.49954 1.499068 " stroke="#004e35" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4" id="path3140"></path>
   <path stroke-linecap="butt" transform="matrix(-0.712921, -0.219128, 0.220351, -0.7169, 242.71474, 445.833481)" fill="none" stroke-linejoin="miter" d="M 0.000290271 0.497776 L 41.746698 0.498641 " stroke="#004e35" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4" id="path3142"></path>
-  <g id="aws-code-samples">
+  <g href="https://github.com/aws-samples" id="aws-code-samples">
     <g fill="#004e35" fill-opacity="1" id="g2492">
       <g transform="translate(97.771643, 433.167074)" id="g2490">
         <g id="g2488">
@@ -2772,7 +2772,7 @@
     </g>
   </g>
   <path stroke-linecap="butt" transform="matrix(-0.279052, 0.70132, -0.696862, -0.277278, 243.176548, 445.620121)" fill="none" stroke-linejoin="miter" d="M -0.0012517 0.50049 L 58.136477 0.499389 " stroke="#004e35" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4" id="path3462"></path>
-  <g id="sagemaker-studio-lab">
+  <g href="https://studiolab.sagemaker.aws/" id="sagemaker-studio-lab">
     <g fill="#004e35" fill-opacity="1" id="g3156">
       <g transform="translate(114.647992, 476.214936)" id="g3154">
         <g id="g3152">
@@ -3037,7 +3037,7 @@
       <g id="g3520"></g>
     </g>
   </g>
-  <g id="aws-educate">
+  <g href="https://www.awseducate.com/" id="aws-educate">
     <g fill="#004e35" fill-opacity="1" id="g3472">
       <g transform="translate(600.678071, 498.478583)" id="g3470">
         <g id="g3468">
@@ -3522,7 +3522,7 @@
       <g id="g4090"></g>
     </g>
   </g>
-  <g id="mlu-explain">
+  <g href="https://mlu-explain.github.io/" id="mlu-explain">
     <g fill="#004e35" fill-opacity="1" id="g4040">
       <g transform="translate(68.141416, 272.466748)" id="g4038">
         <g id="g4036">
