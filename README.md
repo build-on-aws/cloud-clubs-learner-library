@@ -28,9 +28,23 @@ Primary among the sites listed in this repo are [AWS Educate](https://www.awsedu
 
 ## What Learning Platform Works Best for Me?
 
-### Like all questions in tech, "it depends!" In particular, it depends on how you like to learn. To help you choose the right platform for your learning style, we've created a clickable decision tree. Click a node to visit a platform.
+### Like all questions in tech, "it depends!" In particular, it depends on how you like to learn. To help you choose the right platform for your learning style, we've created a clickable decision tree. Links are listed below the graphic.
 
 ![Decision tree](./images/learn.svg)
+
+> Useful links:
+>
+> - [BuildOn.aws blog](https://buildon.aws)
+> - [Dev.to for AWS](https://dev.to/aws)
+> - [AWS Blog](https://aws.amazon.com/blogs/)
+> - [BuildOn Twitch](https://www.twitch.tv/aws)
+> - [Skill Builder](https://explore.skillbuilder.aws/)
+> - [AWS Educate](https://www.awseducate.com/)
+> - [Workshops.aws](https://workshops.aws/)
+> - [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
+> - [AWS Code Samples](https://github.com/aws-samples)
+> - [Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)
+> - [MLU (Machine Learning University) Explain](https://mlu-explain.github.io/)
 
 ## Security
 
