@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="1024" zoomAndPan="magnify" viewBox="0 0 768 576" height="768" preserveAspectRatio="xMidYMid meet" version="1.0" id="svg4180" sodipodi:docname="learn.svg" inkscape:version="1.2.1 (9c6d41e, 2022-07-14)">
+<?xml  version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="1024" zoomAndPan="magnify" viewBox="0 0 768 576" height="768" preserveAspectRatio="xMidYMid meet" version="1.0" id="svg4180" sodipodi:docname="learn.svg" inkscape:version="1.2.1 (9c6d41e, 2022-07-14)">
   <defs id="defs118">
     <g id="g2"></g>
     <clipPath id="487b5a2e9e">
@@ -1579,7 +1579,8 @@
       <g id="g1854"></g>
     </g>
   </g>
-    <g href="https://buildon.aws" id="buildon-aws">
+    <a xlink:href="https://buildon.aws">
+    <g id="buildon-aws">
       <g fill="#004e35" fill-opacity="1" id="g1820">
         <g transform="translate(322.725953, 44.664953)" id="g1818">
           <g id="g1816">
@@ -1693,6 +1694,7 @@
         </g>
       </g>
     </g>
+    </a>
   <g fill="#004e35" fill-opacity="1" id="g1992">
     <g transform="translate(501.432768, 104.547056)" id="g1990">
       <g id="g1988"></g>
