@@ -2,11 +2,11 @@
 
 ### This library includes a set of folders where you can discover free, ungated content on AWS properties to further your learning journey. Choose a topic that interests you and visit its homepage in its labelled folder or use the table of contents below. 
 
-[![Learner Library overview ](https://img.youtube.com/vi/5QMuHqLnqqU/0.jpg)](https://www.youtube.com/watch?v=5QMuHqLnqqU "Learner Library Overview - Click to Watch!")
+[![Learner Library overview ](images/watch.gif)](https://www.youtube.com/watch?v=5QMuHqLnqqU "Learner Library Overview - Click to Watch!")
 > 🎥 Click the image above to learn how to use the Learner Library
 
 
-Primary among the sites listed in this repo are [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/). Use these platforms to learn more about AWS technologies in a level-appropriate format.
+Primary among the sites listed in this repo are [AWS Educate](https://www.awseducate.com/), [AWS Skill Builder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/). Use these platforms to learn more about AWS technologies in a level-appropriate format.
 
 > A note about [AWS Educate](https://www.awseducate.com/): please ensure that you are logged in to Educate before accessing specific resources on that site. You may also need to navigate to a course by applying filters.
 
@@ -26,6 +26,28 @@ Primary among the sites listed in this repo are [AWS Educate](https://www.awsedu
 | [Security](/Security)                                         | IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, and data.                                                                                                                                                                        |
 | [Serverless](/Serverless)                                     | Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers.                                                                                                                                                                                    |
 | [Web and Mobile Development](/Web_Mobile_Development)            | Web development refers to the ability to build beautiful, accessible, fast, and secure websites that work cross-browser for all users.                                                                                                                                                                     |
+
+---
+
+## What Learning Platform Works Best for Me?
+
+Like all questions in tech, "it depends!" In particular, it depends on how you like to learn. To help you choose the right platform for your learning style, we've created a decision tree. Links are listed below the graphic.
+
+![Decision tree](./images/learn.svg)
+
+> Useful links:
+>
+> - [BuildOn.aws blog](https://buildon.aws)
+> - [Dev.to for AWS](https://dev.to/aws)
+> - [AWS Blog](https://aws.amazon.com/blogs/)
+> - [BuildOn Twitch](https://www.twitch.tv/aws)
+> - [Skill Builder](https://explore.skillbuilder.aws/)
+> - [AWS Educate](https://www.awseducate.com/)
+> - [Workshops.aws](https://workshops.aws/)
+> - [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
+> - [AWS Code Samples](https://github.com/aws-samples)
+> - [Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)
+> - [MLU (Machine Learning University) Explain](https://mlu-explain.github.io/)
 
 ## Security
 
