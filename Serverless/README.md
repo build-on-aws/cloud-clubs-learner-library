@@ -29,6 +29,7 @@ You can learn more about serverless by visiting [Serverless on AWS](https://aws.
 | [EMR Serverless Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/e8e8fbb5-c3fb-4f86-bf77-0ba1fe402c55)   | This workshop shows you how to configure and run EMR Serverless and try out various features and use cases                                                                                                                   | Workshop, Labs |
 | [AWS Lambda Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/66943748-f648-4a43-8b44-da8cfcc53286)       | Workshop showcasing how Lambda works. You will see cold-start, scaling, traffic shift, and some of the common tools to help develop and optimize Lambda functions.                                                           | Workshop, Labs |
 | [Serverless Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan) | A Serverless Learning Plan pulls together training content for a serverless technologies. Organized assets from foundational to advanced. Use this Learning Plans as a starting point to discover training about serverless. | Videos         |
+| [Wild Rydes Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops) | 15 intermediate level workshops to explore many aspects of serverless architecture | Workshop         |
 
 ---
 
