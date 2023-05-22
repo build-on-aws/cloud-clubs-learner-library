@@ -33,7 +33,7 @@ Primary among the sites listed in this repo are [AWS Educate](https://www.awsedu
 
 Like all questions in tech, "it depends!" In particular, it depends on how you like to learn. To help you choose the right platform for your learning style, we've created a decision tree. Links are listed below the graphic.
 
-![Decision tree](./images/learn.svg)
+![Decision tree](./images/learn.png)
 
 > Useful links:
 >
