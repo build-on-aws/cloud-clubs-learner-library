@@ -20,12 +20,8 @@ You can learn more about web development by visiting [AWS Amplify](https://aws.a
 
 | Title                                                                                                           | Description                                                                                         | Format         |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------|
-| [Web Development Engineer](https://awseducate.instructure.com/courses/193)<sup>[1]</sup>                                      | This is a web development course for students who want to become a Full stack developer             | Workshop, Labs |
 | [Create a “Todo app” to store and retrieve items in a cloud ](https://docs.amplify.aws/start/q/integration/js/) | This application can be built using various libraries and frameworks. |     Tutorial           |
 | [Building a Serverless Web App with Amplify](https://catalog.us-east-1.prod.workshops.aws/workshops/1665a9b6-958b-4b70-ba52-14127b8fa99f/en-US) |In this tutorial, you'll be introduced to foundational concepts including authentication, storage, and functions. | Workshop |
-
-<sup>[1]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
-
 
 ---
 
