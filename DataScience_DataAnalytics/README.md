@@ -8,7 +8,7 @@
 
 "Data analytics converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data. Data analytics can shape business processes, improve decision-making, and foster business growth." - [source](https://aws.amazon.com/what-is/data-analytics/)
 
-## Why should you learn Data Scince and Data Analytics as a student?
+## Why should you learn Data Science and Data Analytics as a student?
 
 Let's say you are tasked to make your final year project for a real customer and you have finalized a retail shop in your area. The customer has provided you with the purchase history and the inward and outward stock records of ten years. That's a lot of raw data to filter, sort, and clean. You can use Data science here to analyze all this raw data and convert it into meaningful usable data. Then, you can leverage data analytics to make discount schemes on low selling products, design marketing campaigns for areas that have less reach and estimate the best suitable value for products that would receive good margins. The result of all this will ultimately increase sales and gain more profits.
 
