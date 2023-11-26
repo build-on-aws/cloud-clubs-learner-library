@@ -12,6 +12,17 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 
 ---
 
+# Machine Learning Camp for AWS Cloud Clubs
+
+If you're a member or a leader of an [AWS Cloud Club](https://www.meetup.com/pro/cloud-clubs/), you can participate in "ML Camp" located here: "[Build Your First Machine Learning Web App](https://s12d.com/mlapi-camp)", where you'll learn the basics of applied Machine Learning on AWS.
+
+What's "Camp"? It's a workshop, only better! With a trained facilitator, work through the modules in the workshop [here](https://s12d.com/mlapi-camp). They include quizzes and challenges and the ability to earn a badge on completion of the Camp. While this experience is normally available for AWS Cloud Clubs, reach out to awscloudclubs@amazon.com if you'd like to run this Camp in a non-Cloud Club environment.
+
+- Training Video - coming soon
+- Powerpoint for instructors is available - please email us at awscloudclubs@amazon.com
+
+---
+
 ### Level :one: - Getting Started
 
 | Title                                                                                                                                                                                                                                                                                                     | Description                                                                                                                                                                 | Format        |
